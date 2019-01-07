@@ -1,0 +1,22 @@
+div.content {
+    margin-left: 200px;
+}
+div.side {
+    position: fixed;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: blue;
+    width: 180px;
+    padding: 10px;
+    vertical-align: middle;
+}
+ul {
+    margin: 0;
+    padding: 0;
+
+}
+ul li {
+    color: #fff;
+    vertical-align: middle;
+}
